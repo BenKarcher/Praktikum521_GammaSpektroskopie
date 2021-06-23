@@ -1,0 +1,50 @@
+REPORT-FILE from 06/14/2021 16:34:16.312 - 16:44:16.265  written 06/14/2021 16:44:38
+REALTIME: 599.959     
+TOTALSUM: 18689       
+ROISUM: 0           
+MAXVAL: 54          
+LIVETIME: 599.877     
+cmline0=06/14/2021 16:34:16.312 - 16:44:16.265 
+range=8192
+prena=2
+mcsmode=4
+roimin=0
+roimax=64
+rtpreset=504000.000  
+ltpreset=44000.000   
+evpreset=0           
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=2015
+diguse=8
+digval=0
+cycles=128
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=909
+histlen=0
+autoinc=0 
+;datname=E:\mca\Ge_Ug.mcd
+savedata=0
+fmt=txt
+smoothpts=5 
+caluse=0 
+caloff=0.000000
+calfact=1.000000
+calfact2=0
+calfact3=0
+calunit=keV

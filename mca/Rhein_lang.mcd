@@ -1,0 +1,50 @@
+REPORT-FILE from 06/14/2021 16:52:28.109 - 12:01:47.703  written 06/15/2021 12:02:17
+REALTIME: 68960.119   
+TOTALSUM: 230963      
+ROISUM: 0           
+MAXVAL: 514         
+LIVETIME: 68958.954   
+cmline0=06/14/2021 16:52:28.109 - 12:01:47.703 
+range=8192
+prena=0
+mcsmode=4
+roimin=0
+roimax=64
+rtpreset=504000.000  
+ltpreset=44000.000   
+evpreset=0           
+swpreset=1           
+rampmode=0
+rampstart=1024
+rampstep=1
+rampbin=1
+ramplen=1024
+qdacuse=0
+qdac=2048
+dac1use=0
+dac1val=0
+impsel=f
+thrstart=1716
+thr1=1716
+thr2=1716
+thrclk=2015
+diguse=8
+digval=0
+cycles=128
+sequences=1
+mempart=0
+dwelltime=3
+dwellunit=0
+syncout=909
+histlen=0
+autoinc=0 
+;datname=E:\mca\Rhein_lang.mcd
+savedata=0
+fmt=txt
+smoothpts=5 
+caluse=0 
+caloff=0.000000
+calfact=1.000000
+calfact2=0
+calfact3=0
+calunit=keV
